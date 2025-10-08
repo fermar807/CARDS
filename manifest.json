@@ -1,7 +1,7 @@
 {
   "name": "CARDS",
   "short_name": "CARDS",
-  "start_url": "./index.html",
+  "start_url": "/CARDS/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4CAF50",
@@ -13,4 +13,5 @@
     }
   ]
 }
+
 
